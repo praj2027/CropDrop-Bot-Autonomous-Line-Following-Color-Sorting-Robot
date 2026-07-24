@@ -1,0 +1,12 @@
+../Core/Inc/Color.c:28:13:RGB_LED_Off	8	static
+../Core/Inc/Color.c:35:13:RGB_LED_Red	8	static
+../Core/Inc/Color.c:42:13:RGB_LED_Green	8	static
+../Core/Inc/Color.c:49:13:RGB_LED_Blue	8	static
+../Core/Inc/Color.c:55:13:RGB_LED_White	8	static
+../Core/Inc/Color.c:62:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Inc/Color.c:87:6:Color_Init	16	static
+../Core/Inc/Color.c:99:10:Color_ReadRed	8	static
+../Core/Inc/Color.c:107:10:Color_ReadGreen	8	static
+../Core/Inc/Color.c:115:10:Color_ReadBlue	8	static
+../Core/Inc/Color.c:123:5:Color_Detect	32	static
+../Core/Inc/Color.c:160:6:White_LED_box_Detect	8	static
