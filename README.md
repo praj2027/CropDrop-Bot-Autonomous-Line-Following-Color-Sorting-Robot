@@ -214,6 +214,4 @@ Manipal Institute of Technology
 
 ---
 
-## License
 
-This project is intended for educational and research purposes.
