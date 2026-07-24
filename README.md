@@ -113,6 +113,4 @@ Color detection thresholds (`COLOR_G_GAIN`, `COLOR_B_GAIN`, `COLOR_DIFF`) are de
 - Sorting logic branches on `color == 2` / `color == 3`; double-check these against your bin layout, since `Color_Detect()` returns `3` for blue, not red — naming in comments/state names may not match the numeric color codes.
 - No debounce beyond the 2-sample counters for gate/junction detection; very fast runs may need tuning.
 
-## License
 
-Add your preferred license here (e.g., MIT).
